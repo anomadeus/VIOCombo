@@ -170,7 +170,7 @@ namespace XIVComboPlugin
         [CustomComboInfo("Red Mage AoE Combo", "Replaces Veraero/thunder 2 with Impact when Dualcast or Swiftcast are active", 35)]
         RedMageAoECombo = 1L << 48,
 
-        [CustomComboInfo("Redoublement combo", "Replaces Redoublement with its combo chain, following enchantment rules", 35)]
+        [CustomComboInfo("Redoublement combo", " *Testing* ", 35)]
         RedMageMeleeCombo = 1L << 49,
 
         [CustomComboInfo("Verproc into Jolt", "Replaces Verstone/Verfire with Jolt/Scorch when no proc is available.", 35)]
